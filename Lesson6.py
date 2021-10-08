@@ -30,7 +30,7 @@ with open('task.json', 'w', encoding='utf-8') as f:
     json.dump(out_dict, f, ensure_ascii=False)
 print(out_dict)
 
-# Задание 6
+# Задание_6
 
 import sys
 
